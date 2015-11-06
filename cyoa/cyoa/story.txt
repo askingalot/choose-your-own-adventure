@@ -1,0 +1,79 @@
+﻿:start
+You come home after a hard day. This is a day you've been looking forward to for a week. 
+Everyone is away for the entire afternoon and you have the house to yourself. You left work 
+early with plans to hurry home, change into comfortable clothes and settle in with a book 
+and a glass of something stronger than your usual tea.
+
+As you walk up the few steps leading to your front door, you hear a rustling sound from 
+the side of the house. Your quiet afternoon is calling to you, but you wonder what the 
+sound could be.
+
+?What do you do?
+!investigate_the_side_yard Investigate.
+!go_in_the_front_door Go inside.
+
+
+:investigate_the_side_yard
+Frustrated with yourself for not being able to leave it alone, you back down the steps 
+to the front walk. You hear the rustling sound again. Maybe it's the neighbor's dog, 
+you speculate, but you are compelled to investigate. You walk around to the side yard. 
+Once there you don't find the neighbor's dog, but instead a large orange gorilla sitting in 
+one of you lawn chairs.
+
+"Hello," says the gorilla. "I'm Betty. Could I trouble you for a glass of water?"
+
+You are more shocked by the presence of the gorilla - did she say "Betty?" - than by the 
+fact that she can talk. But somehow you find a way to pull yourself together.
+
+"Umm...sure," you hear yourself say. "Why don't we go around to the back deck?
+
+You hurriedly lead Betty around to the back of the house and up the steps to the back deck. 
+For some reason you find yourself more concerned about the neighbors seeing the two of 
+you and the things they might say than you feel about Betty.
+
+Once on the deck you ask Betty to wait a moment while you unlock the back door and head 
+in the kitchen for a glass of water. Your hands are shaking a little, but you manage to 
+keep from spilling any as you walk back out on the deck.
+
+?What do you do?
+!give_the_drink Give Betty the drink
+
+:go_in_the_front_door
+It's probably just the neighbor's dog, you think. Usually you find the dog to be a nuisance 
+and on a normal day you would go shoo it away, but not today, your slippers and that 
+Raymond Chandler novel are waiting just on the other side of the door and you won't let 
+yourself be distracted.
+
+You unlock your door and run straight for the bedroom. You change your clothes, find the 
+copy of Lady in the Lake you've been eager to read and walk into the kitchen to pour 
+yourself that drink.
+
+Finally - drink in one hand and book in the other - you take a step toward the living 
+room and the comfy sofa waiting for you. Wait a minute, you think, it's a beautiful day. 
+Why not read on the deck? So you turn around and head for the back door.
+
+You fumble a little with the door knob as you try to balance the book and drink, so that 
+your head is bowed focused on your hands as you go through the open door and you don't 
+look up until you've walked a few steps onto the deck. When you do, you see a large orange 
+gorilla standing on the deck. "Hi, I'm Betty," the gorilla says, "mind if I have a sip 
+of that drink?"
+
+You drop the book.
+
+?What do you do?
+!give_the_drink Give Betty the drink
+
+
+:give_the_drink
+"Umm...so...yeah, here you go," you say as you hand the glass over.
+
+"Thank you very much," Betty says, taking a sip. "Ah, very refreshing".
+
+You don't know what to do, so you fall back on the many lessons you mother gave you on 
+how to treat a guest. "Won't you have a seat? Betty is it?"
+
+"Again, I thank you," Betty says and she sits on a deck chair. It noticeably bends under 
+her weight.
+
+...
+
